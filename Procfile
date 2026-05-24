@@ -1,1 +1,1 @@
-web: python se¤ales-respuesta-app.py
+web: python servidor.py
